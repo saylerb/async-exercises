@@ -18,6 +18,7 @@ function fakeAjax(url,cb) {
 
 function output(text) {
   console.log(text);
+}
 
 
 function render(text, target) {
